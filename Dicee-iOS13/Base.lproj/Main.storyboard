@@ -48,7 +48,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="diceImageViewOne" destination="lpL-z8-aTQ" id="x4K-4E-40B"/>
+                        <outlet property="diceImageView1" destination="lpL-z8-aTQ" id="x4K-4E-40B"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
